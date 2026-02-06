@@ -1,0 +1,433 @@
+Privacy Policy for SZ Ride Book
+Effective Date: February 5, 2026
+Last Updated: February 5, 2026
+1. Introduction
+Welcome to SZ Ride Book ("we," "our," or "us"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and services.
+By using SZ Ride Book, you agree to the collection and use of information in accordance with this policy. If you do not agree with our policies and practices, please do not use our application.
+2. Information We Collect
+2.1 Personal Information You Provide
+Account Registration:
+•
+Full name
+•
+Email address
+•
+Phone number
+•
+Profile photo (optional)
+•
+Government-issued ID documents (for verification purposes)
+Booking Information:
+•
+Pickup and return addresses
+•
+Booking dates and times
+•
+Special requests or notes
+•
+Vehicle preferences
+Payment Information:
+•
+UPI ID (for payment processing)
+•
+Payment transaction details
+•
+Payment screenshots (when provided)
+•
+Advance payment confirmations
+Verification Documents:
+•
+Identity proof (Aadhaar, PAN, Driving License, etc.)
+•
+Address proof
+•
+Driving license (for vehicle bookings)
+•
+Document verification status
+2.2 Information Collected Automatically
+Usage Data:
+•
+Device information (model, operating system, unique device identifiers)
+•
+App usage statistics
+•
+Interaction with features and screens
+•
+Crash reports and error logs (via Firebase Crashlytics)
+Technical Data:
+•
+IP address
+•
+Browser type and version
+•
+Time zone and locale settings
+•
+Operating system and platform
+2.3 Information from Third-Party Services
+Authentication Providers:
+•
+Google Sign-In: name, email, profile picture
+Payment Gateways:
+•
+Razorpay: transaction IDs, payment status, payment method details
+Firebase Services:
+•
+Authentication data
+•
+Cloud storage metadata
+•
+Analytics and performance data
+3. How We Use Your Information
+We use the collected information for the following purposes:
+3.1 Core Service Operations
+•
+Account Management: Create and manage your user account
+•
+Booking Processing: Process and manage vehicle bookings
+•
+Payment Processing: Handle advance payments and final settlements
+•
+Identity Verification: Verify user identity for safety and compliance
+•
+Service Delivery: Connect customers with vehicle owners/managers
+3.2 Communication
+•
+Send booking confirmations and updates
+•
+Notify about ride status changes
+•
+Provide customer support
+•
+Send important service announcements
+•
+Respond to inquiries and requests
+3.3 Safety and Security
+•
+Prevent fraud and unauthorized access
+•
+Verify document authenticity
+•
+Monitor and prevent misuse of services
+•
+Enforce terms and conditions
+•
+Block users who violate policies
+3.4 Analytics and Improvement
+•
+Analyze app usage patterns
+•
+Improve user experience
+•
+Develop new features
+•
+Debug and fix technical issues
+•
+Monitor app performance
+3.5 Legal Compliance
+•
+Comply with legal obligations
+•
+Respond to law enforcement requests
+•
+Enforce our terms of service
+•
+Protect our rights and property
+4. Data Sharing and Disclosure
+We may share your information in the following circumstances:
+4.1 With Service Providers
+Vehicle Owners/Managers:
+•
+Your name, phone number, and email
+•
+Booking details (dates, times, vehicle)
+•
+Pickup/return addresses
+•
+Payment status
+Payment Processors:
+•
+Razorpay receives necessary payment information to process transactions
+Cloud Services:
+•
+Firebase/Google Cloud Platform stores and processes data on our behalf
+4.2 For Business Operations
+Admin Users:
+•
+Admin panel users can access user data for verification and dispute resolution
+•
+Admins review submitted documents for verification
+4.3 Legal Requirements
+We may disclose your information if required to:
+•
+Comply with legal obligations or court orders
+•
+Protect the rights, property, or safety of SZ Ride Book, our users, or the public
+•
+Investigate fraud or security issues
+•
+Enforce our Terms of Service
+4.4 Business Transfers
+In the event of a merger, acquisition, or sale of assets, your information may be transferred to the new entity.
+5. Data Storage and Security
+5.1 Where We Store Your Data
+Cloud Infrastructure:
+•
+Primary data storage: Firebase Cloud Firestore (Google Cloud Platform)
+•
+File storage: Firebase Storage
+•
+Authentication: Firebase Authentication
+•
+Located in secure data centers with industry-standard security
+Local Device Storage:
+•
+Shared Preferences: User preferences, session tokens
+•
+Local cache: Temporary app data for offline functionality
+5.2 Security Measures
+We implement appropriate technical and organizational measures to protect your data:
+•
+Encryption: Data transmitted over HTTPS/TLS encryption
+•
+Authentication: Secure Firebase Authentication with multi-factor support
+•
+Access Controls: Role-based access permissions (User, Worker, Admin)
+•
+Monitoring: Firebase Crashlytics for error tracking and security monitoring
+•
+Regular Updates: Security patches and updates
+•
+Data Minimization: We collect only necessary information
+5.3 Data Retention
+•
+Active Accounts: Data retained while your account is active
+•
+Inactive Accounts: Data may be deleted after extended inactivity (subject to legal requirements)
+•
+Booking Records: Retained for 7 years for tax and legal compliance
+•
+Verification Documents: Retained as long as legally required
+•
+Payment Records: Retained per financial regulations
+Deletion Requests: You may request account deletion at any time (see Section 8).
+6. Your Privacy Rights
+6.1 Access and Control
+You have the right to:
+•
+Access: Request a copy of your personal data
+•
+Correction: Update or correct inaccurate information
+•
+Deletion: Request deletion of your account and data
+•
+Portability: Receive your data in a structured, machine-readable format
+•
+Objection: Object to certain data processing activities
+•
+Restriction: Request limitation of data processing
+6.2 Account Settings
+You can manage certain information directly in the app:
+•
+Update profile information
+•
+Manage saved addresses
+•
+View booking history
+•
+Change notification preferences
+6.3 Marketing Communications
+You can opt-out of marketing communications:
+•
+Unsubscribe from promotional emails
+•
+Disable push notifications in device settings
+•
+Contact us to update communication preferences
+7. Third-Party Services and Links
+7.1 Third-Party Services We Use
+Firebase (Google):
+•
+Authentication
+•
+Cloud Firestore (database)
+•
+Cloud Storage
+•
+Crashlytics (error reporting)
+•
+Remote Config
+•
+Cloud Functions
+Razorpay:
+•
+Payment processing
+•
+Transaction management
+Google Sign-In:
+•
+OAuth authentication
+YouTube Player:
+•
+Embedded video content
+7.2 Third-Party Privacy Policies
+These third-party services have their own privacy policies:
+•
+Google Privacy Policy: https://policies.google.com/privacy
+•
+Razorpay Privacy Policy: https://razorpay.com/privacy/
+•
+Firebase Privacy Policy: https://firebase.google.com/support/privacy
+7.3 External Links
+Our app may contain links to external websites. We are not responsible for the privacy practices of third-party websites. Please review their privacy policies before providing personal information.
+8. Children's Privacy
+SZ Ride Book is not intended for users under the age of 18. We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately, and we will delete such information.
+9. Data Processing for Different User Roles
+9.1 Customers (Users)
+•
+Account and profile data
+•
+Booking and ride history
+•
+Payment transactions
+•
+Verification documents
+•
+Ratings and reviews
+•
+Cancellation records and blocking status
+9.2 Vehicle Owners/Managers (Workers)
+•
+Business information
+•
+Vehicle details
+•
+Meter readings and inspection data
+•
+Earnings and financial reports
+•
+Customer interaction history
+•
+Performance ratings
+9.3 Administrators
+•
+Access to all platform data for management purposes
+•
+Verification review data
+•
+Dispute resolution information
+•
+Platform analytics
+10. International Data Transfers
+Your information may be transferred to and processed in countries other than your country of residence. These countries may have different data protection laws. By using our services, you consent to such transfers. We ensure appropriate safeguards are in place to protect your information.
+11. Cookies and Tracking Technologies
+11.1 Types of Technologies Used
+Local Storage:
+•
+Shared Preferences for app settings
+•
+Session tokens for authentication
+•
+Cached data for app performance
+Analytics:
+•
+Firebase Analytics for usage tracking
+•
+Crash reporting via Firebase Crashlytics
+Performance Monitoring:
+•
+Firebase Performance Monitoring
+•
+Remote Config for feature flags
+11.2 Your Choices
+You can:
+•
+Clear app data from device settings
+•
+Disable analytics (limited functionality)
+•
+Opt-out of crash reporting (may affect support quality)
+12. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in our practices or for legal, operational, or regulatory reasons. We will notify you of any material changes by:
+•
+Posting the updated policy in the app
+•
+Sending an email notification (for significant changes)
+•
+Displaying an in-app notification
+Last Updated Date: The "Last Updated" date at the top indicates when changes were made.
+Your continued use of the app after changes constitutes acceptance of the updated policy.
+13. Contact Us
+If you have questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:
+SZ Ride Book Support
+📧 Email: support@szridebook.com
+📞 Phone: [Your Contact Number]
+📍 Address: [Your Business Address]
+Data Protection Officer (if applicable):
+Email: privacy@szridebook.com
+Response Time: We aim to respond to all inquiries within 7-10 business days.
+14. Legal Basis for Processing (GDPR Compliance)
+If you are located in the European Economic Area (EEA), our legal basis for collecting and using your personal information includes:
+•
+Consent: You have given explicit consent for specific purposes
+•
+Contract Performance: Processing is necessary to fulfill our service agreement
+•
+Legal Obligations: We must comply with legal requirements
+•
+Legitimate Interests: Processing is necessary for our legitimate business interests
+15. Data Breach Notification
+In the event of a data breach that affects your personal information, we will:
+1.
+Investigate and contain the breach immediately
+2.
+Notify affected users within 72 hours (as required by law)
+3.
+Provide details about the nature of the breach
+4.
+Offer remedial actions and support
+5.
+Report to relevant data protection authorities
+16. User Verification and Blocking Policy
+16.1 Document Verification
+•
+We collect and verify identity documents to ensure platform safety
+•
+Verification status controls access to booking features
+•
+Documents are reviewed by authorized admins only
+16.2 User Blocking
+•
+Users may be blocked for policy violations or excessive cancellations
+•
+Blocked users cannot make new bookings
+•
+Block reasons and timestamps are recorded
+•
+Users can appeal blocks by contacting support
+17. State-Specific Privacy Rights (India)
+17.1 Indian Users
+If you are located in India:
+•
+You have the right to access, correct, and delete your personal data
+•
+You can withdraw consent at any time (may limit service access)
+•
+You can file complaints with the appropriate data protection authority
+•
+We comply with the Information Technology Act, 2000 and related rules
+17.2 Other Jurisdictions
+Users in California (CCPA), Europe (GDPR), and other regions may have additional rights. Please contact us for jurisdiction-specific information.
+18. Automated Decision-Making
+We may use automated systems for:
+•
+User Verification: Document validation algorithms
+•
+Fraud Detection: Suspicious activity monitoring
+•
+Pricing Calculations: Automatic charge computation
+•
+Booking Management: Status updates and notifications
+You have the right to request human review of automated decisions that significantly affect you.
+Acknowledgment
+By using SZ Ride Book, you acknowledge that you have read, understood, and agree to this Privacy Policy.
+Thank you for trusting SZ Ride Book with your information. We are committed to protecting your privacy and providing a safe, secure service.
